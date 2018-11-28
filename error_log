@@ -1,0 +1,551 @@
+[02-Aug-2018 05:40:06 UTC] PHP Fatal error:  Call to undefined method CI_Session::set_fashdata() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 60
+[02-Aug-2018 05:48:17 UTC] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 13
+[02-Aug-2018 05:54:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 64
+[02-Aug-2018 05:56:44 UTC] PHP Fatal error:  Call to undefined function sess_destroy() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 52
+[02-Aug-2018 06:15:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 153
+[02-Aug-2018 06:47:40 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 35
+[02-Aug-2018 06:47:43 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 35
+[02-Aug-2018 06:48:11 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 35
+[02-Aug-2018 06:49:54 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 23
+[02-Aug-2018 10:29:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 297
+[03-Aug-2018 04:47:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:47:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:48:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:50:26 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:51:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:51:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:51:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:52:52 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:52:52 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:52:52 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[03-Aug-2018 04:53:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:53:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:53:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:54:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:55:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:55:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 04:55:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 189
+[03-Aug-2018 05:08:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:08:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:14 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:14 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:14 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 05:09:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 186
+[03-Aug-2018 06:43:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 366
+[03-Aug-2018 06:43:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 80
+[03-Aug-2018 06:46:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 132
+[03-Aug-2018 07:10:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 165
+[04-Aug-2018 06:22:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 07:03:43 UTC] PHP Parse error:  syntax error, unexpected 'Template' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 72
+[04-Aug-2018 07:03:47 UTC] PHP Parse error:  syntax error, unexpected 'Template' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 72
+[04-Aug-2018 07:16:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 34
+[04-Aug-2018 07:16:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 34
+[04-Aug-2018 07:17:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 34
+[04-Aug-2018 07:17:43 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 34
+[04-Aug-2018 07:25:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 48
+[04-Aug-2018 07:43:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 48
+[04-Aug-2018 08:04:48 UTC] PHP Parse error:  syntax error, unexpected '"username"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 56
+[04-Aug-2018 10:53:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:53:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:55:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:06 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:12 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:17 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:20 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:21 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:22 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:24 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:26 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:26 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:27 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:27 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:29 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:35 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:36 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:36 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:36 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:52 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 10:56:58 UTC] PHP Fatal error:  Call to undefined method CI_Session::sess_destory() in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 82
+[04-Aug-2018 12:26:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 81
+[04-Aug-2018 12:27:01 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 81
+[04-Aug-2018 12:36:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 70
+[04-Aug-2018 12:45:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 42
+[04-Aug-2018 20:24:43 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 57
+[04-Aug-2018 20:24:51 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 57
+[04-Aug-2018 20:25:35 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 58
+[04-Aug-2018 20:36:24 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 16
+[04-Aug-2018 20:37:32 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 58
+[04-Aug-2018 20:40:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 58
+[04-Aug-2018 20:45:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/babyshop/public_html/excise/application/modules/Users/views/edit_users.php on line 36
+[05-Aug-2018 06:19:05 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_all.php on line 33
+[06-Aug-2018 06:34:23 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 10
+[06-Aug-2018 06:34:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 129
+[06-Aug-2018 06:53:33 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 34
+[06-Aug-2018 06:58:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 34
+[06-Aug-2018 06:59:17 UTC] PHP Parse error:  syntax error, unexpected '"Are you want to Proceed ?"' (T_CONSTANT_ENCAPSED_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 35
+[06-Aug-2018 07:00:17 UTC] PHP Parse error:  syntax error, unexpected '"Are you want to Proceed ?"' (T_CONSTANT_ENCAPSED_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 35
+[06-Aug-2018 07:14:25 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 5
+[06-Aug-2018 07:16:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 21
+[06-Aug-2018 07:17:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 21
+[06-Aug-2018 07:42:11 UTC] PHP Parse error:  syntax error, unexpected '$userdistrict' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 10
+[06-Aug-2018 07:48:53 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 16
+[06-Aug-2018 07:49:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/models/Mdl_vechicles.php on line 16
+[06-Aug-2018 09:28:57 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::get_all_data() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 41
+[06-Aug-2018 09:29:03 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::get_all_data() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 41
+[06-Aug-2018 09:29:12 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::get_all_data() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 41
+[06-Aug-2018 10:02:40 UTC] PHP Parse error:  syntax error, unexpected '"Do you want to Proceeded."' (T_CONSTANT_ENCAPSED_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 35
+[06-Aug-2018 10:02:57 UTC] PHP Parse error:  syntax error, unexpected 'Do' (T_DO) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 35
+[06-Aug-2018 11:16:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 96
+[06-Aug-2018 11:20:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 92
+[06-Aug-2018 11:21:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 93
+[06-Aug-2018 11:35:32 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 77
+[06-Aug-2018 11:46:24 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 122
+[07-Aug-2018 08:23:56 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 19
+[07-Aug-2018 08:24:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 19
+[07-Aug-2018 08:24:56 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 19
+[07-Aug-2018 08:24:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 19
+[09-Aug-2018 06:36:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 164
+[09-Aug-2018 07:29:17 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 147
+[09-Aug-2018 07:37:53 UTC] PHP Parse error:  syntax error, unexpected 'fun1' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 147
+[09-Aug-2018 07:38:24 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 147
+[09-Aug-2018 09:41:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 09:42:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 09:43:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 09:46:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:25:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:27:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:27:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:27:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:27:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[09-Aug-2018 11:27:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 166
+[10-Aug-2018 05:46:50 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 328
+[11-Aug-2018 07:18:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 193
+[11-Aug-2018 07:23:29 UTC] PHP Parse error:  syntax error, unexpected '"	upload"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 191
+[11-Aug-2018 15:41:06 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 24
+[11-Aug-2018 15:45:50 UTC] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 22
+[12-Aug-2018 06:59:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 26
+[12-Aug-2018 07:22:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 42
+[12-Aug-2018 07:23:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 39
+[12-Aug-2018 07:34:43 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 48
+[12-Aug-2018 08:11:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 36
+[13-Aug-2018 09:52:18 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::make_datatables_confiscated__warehouse() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 346
+[13-Aug-2018 09:53:19 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::get_all_data_confiscated__warehouse() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 364
+[14-Aug-2018 14:04:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 294
+[15-Aug-2018 03:01:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 03:02:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 03:03:38 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 03:04:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 03:04:34 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 04:20:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 04:22:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/vechicle_complete_report.php on line 240
+[15-Aug-2018 04:23:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 04:24:35 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_result() in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 78
+[15-Aug-2018 04:51:06 UTC] PHP Parse error:  syntax error, unexpected '"role_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 30
+[15-Aug-2018 04:51:09 UTC] PHP Parse error:  syntax error, unexpected '"role_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 30
+[15-Aug-2018 04:51:11 UTC] PHP Parse error:  syntax error, unexpected '"role_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/babyshop/public_html/excise/application/modules/Users/controllers/Users.php on line 30
+[15-Aug-2018 11:54:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 333
+[15-Aug-2018 11:58:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 333
+[17-Aug-2018 10:41:11 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 77
+[17-Aug-2018 11:00:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_specific_vechicle.php on line 86
+[18-Aug-2018 10:40:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 348
+[18-Aug-2018 13:02:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 346
+[18-Aug-2018 13:11:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 346
+[18-Aug-2018 13:52:00 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 363
+[18-Aug-2018 13:57:57 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 363
+[18-Aug-2018 14:00:23 UTC] PHP Parse error:  syntax error, unexpected '$all_data' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 363
+[18-Aug-2018 17:32:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/views/vechicle_complete_report.php on line 215
+[20-Aug-2018 04:59:13 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 438
+[20-Aug-2018 07:47:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 95
+[27-Aug-2018 07:27:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/vechicle_complete_report.php on line 287
+[27-Aug-2018 10:16:35 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 27
+[27-Aug-2018 10:16:53 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 27
+[27-Aug-2018 10:17:08 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/show_vechicles_history.php on line 27
+[27-Aug-2018 11:03:21 UTC] PHP Fatal error:  Call to a member function get_confiscated_all_data() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 661
+[27-Aug-2018 11:03:33 UTC] PHP Fatal error:  Call to a member function get_confiscated_all_data() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 661
+[27-Aug-2018 11:05:54 UTC] PHP Fatal error:  Call to undefined method Mdl_vechicles::get_confiscated_all_data() in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 667
+[29-Aug-2018 06:12:14 UTC] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 28
+[29-Aug-2018 06:15:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 57
+[29-Aug-2018 06:15:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Template/views/main.php on line 34
+[29-Aug-2018 06:49:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 19
+[29-Aug-2018 06:49:53 UTC] PHP Parse error:  syntax error, unexpected '$redirect_result' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 22
+[30-Aug-2018 06:43:26 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/mra_dispatched.php on line 142
+[30-Aug-2018 06:44:10 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/mra_dispatched.php on line 142
+[30-Aug-2018 13:40:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 84
+[30-Aug-2018 13:43:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 70
+[30-Aug-2018 13:50:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 76
+[30-Aug-2018 13:51:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 76
+[30-Aug-2018 13:51:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 161
+[30-Aug-2018 14:18:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 65
+[03-Sep-2018 07:29:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 961
+[03-Sep-2018 07:30:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 961
+[03-Sep-2018 10:21:12 UTC] PHP Fatal error:  Call to undefined function sksort() in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 463
+[03-Sep-2018 11:50:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 468
+[03-Sep-2018 16:43:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 1030
+[03-Sep-2018 16:43:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 937
+[04-Sep-2018 05:04:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 102
+[04-Sep-2018 05:05:09 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 100
+[04-Sep-2018 05:05:34 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 86
+[04-Sep-2018 05:05:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 86
+[04-Sep-2018 05:05:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 86
+[04-Sep-2018 05:12:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 462
+[04-Sep-2018 07:35:40 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 316
+[04-Sep-2018 07:36:48 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 316
+[04-Sep-2018 07:36:52 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 316
+[04-Sep-2018 07:54:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 154
+[04-Sep-2018 07:58:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 315
+[04-Sep-2018 07:59:54 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 315
+[04-Sep-2018 09:20:35 UTC] PHP Fatal error:  Call to a member function result() on null in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 291
+[04-Sep-2018 09:21:49 UTC] PHP Fatal error:  Call to a member function result() on array in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 291
+[04-Sep-2018 10:08:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 309
+[04-Sep-2018 10:11:57 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 317
+[04-Sep-2018 10:22:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 10:22:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 352
+[04-Sep-2018 10:23:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 352
+[04-Sep-2018 10:47:54 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 10:57:17 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 318
+[04-Sep-2018 10:58:33 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 318
+[04-Sep-2018 11:01:14 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 319
+[04-Sep-2018 11:08:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:09:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:09:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:09:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:10:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:10:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:14:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[04-Sep-2018 11:22:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 290
+[05-Sep-2018 04:25:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/views/seized_vechicles.php on line 315
+[05-Sep-2018 07:17:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 233
+[05-Sep-2018 07:17:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 303
+[05-Sep-2018 07:18:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 776
+[05-Sep-2018 07:18:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 965
+[05-Sep-2018 07:19:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 362
+[05-Sep-2018 07:19:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 362
+[05-Sep-2018 07:19:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 402
+[05-Sep-2018 07:19:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 777
+[05-Sep-2018 08:01:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 492
+[14-Sep-2018 05:43:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:54:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:54:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:55:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:56:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:56:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:56:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 941
+[14-Sep-2018 05:57:34 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 862
+[14-Sep-2018 05:57:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 862
+[14-Sep-2018 06:15:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 42
+[14-Sep-2018 06:15:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 42
+[14-Sep-2018 06:16:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 42
+[14-Sep-2018 06:32:26 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 43
+[14-Sep-2018 09:38:17 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 23
+[14-Sep-2018 09:39:18 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 23
+[14-Sep-2018 09:39:48 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vechicles/controllers/Vechicles.php on line 23
+[15-Sep-2018 14:44:14 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 14:44:28 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:35:28 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:38:03 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:39:32 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:40:27 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:41:09 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:41:59 UTC] PHP Parse error:  syntax error, unexpected '$returneddistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 64
+[15-Sep-2018 16:47:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 45
+[15-Sep-2018 17:05:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 940
+[17-Sep-2018 06:01:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 754
+[17-Sep-2018 11:27:45 UTC] PHP Warning:  Unterminated comment starting line 6 in /home/babyshop/public_html/excise/application/helpers/db_helper.php on line 6
+[17-Sep-2018 11:38:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 104
+[17-Sep-2018 11:38:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 374
+[17-Sep-2018 11:38:51 UTC] PHP Parse error:  syntax error, unexpected ''" id="mra" onclick="clicked_v' (T_ENCAPSED_AND_WHITESPACE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 436
+[17-Sep-2018 11:38:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 727
+[17-Sep-2018 11:41:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 199
+[17-Sep-2018 11:41:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 744
+[17-Sep-2018 11:41:53 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 9
+[17-Sep-2018 11:41:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 11
+[17-Sep-2018 11:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 558
+[17-Sep-2018 16:01:17 UTC] PHP Parse error:  syntax error, unexpected 'update_where' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 79
+[17-Sep-2018 16:01:22 UTC] PHP Parse error:  syntax error, unexpected 'update_where' (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 79
+[18-Sep-2018 04:41:49 UTC] PHP Parse error:  syntax error, unexpected ''mo' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 370
+[18-Sep-2018 04:42:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 268
+[18-Sep-2018 04:43:12 UTC] PHP Parse error:  syntax error, unexpected 'd', expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 492
+[18-Sep-2018 04:51:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 767
+[18-Sep-2018 04:54:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 267
+[18-Sep-2018 04:57:34 UTC] PHP Parse error:  syntax error, unexpected 'd', expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 465
+[18-Sep-2018 05:02:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 51
+[18-Sep-2018 05:02:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 51
+[18-Sep-2018 05:02:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 51
+[18-Sep-2018 05:11:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 539
+[18-Sep-2018 05:23:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 862
+[18-Sep-2018 05:38:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 259
+[18-Sep-2018 06:13:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 994
+[18-Sep-2018 06:13:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 994
+[18-Sep-2018 06:13:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 812
+[18-Sep-2018 07:22:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 376
+[18-Sep-2018 09:26:32 UTC] PHP Fatal error:  Cannot redeclare Vehicles::Release_vehicle() in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 880
+[18-Sep-2018 09:26:35 UTC] PHP Fatal error:  Cannot redeclare Vehicles::Release_vehicle() in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 880
+[18-Sep-2018 10:47:43 UTC] PHP Parse error:  syntax error, unexpected 'f' (T_STRING), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 156
+[18-Sep-2018 11:12:05 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 9
+[18-Sep-2018 11:12:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 11
+[18-Sep-2018 11:47:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 600
+[18-Sep-2018 16:54:03 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 16:54:07 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 16:54:39 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 16:55:02 UTC] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[18-Sep-2018 16:56:07 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 16:56:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 16:57:12 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[18-Sep-2018 16:57:15 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[18-Sep-2018 16:58:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 17:00:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 6
+[18-Sep-2018 17:04:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 22
+[18-Sep-2018 17:05:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 847
+[18-Sep-2018 17:06:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 611
+[18-Sep-2018 17:15:56 UTC] PHP Parse error:  syntax error, unexpected '$userdistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 54
+[18-Sep-2018 17:15:58 UTC] PHP Parse error:  syntax error, unexpected '$userdistrict' (T_VARIABLE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 54
+[18-Sep-2018 17:18:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 306
+[19-Sep-2018 04:22:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 9
+[19-Sep-2018 05:16:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/api/controllers/Api.php on line 137
+[19-Sep-2018 06:54:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 816
+[19-Sep-2018 09:08:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 540
+[19-Sep-2018 09:22:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 212
+[19-Sep-2018 09:26:39 UTC] PHP Warning:  Unterminated comment starting line 301 in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 301
+[19-Sep-2018 09:26:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 304
+[19-Sep-2018 09:40:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 55
+[19-Sep-2018 09:40:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 55
+[19-Sep-2018 09:40:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 55
+[19-Sep-2018 10:54:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 606
+[19-Sep-2018 15:47:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 878
+[19-Sep-2018 16:10:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 217
+[19-Sep-2018 16:10:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 217
+[19-Sep-2018 16:41:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 879
+[19-Sep-2018 16:42:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1137
+[21-Sep-2018 06:30:05 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 130
+[21-Sep-2018 06:30:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 714
+[21-Sep-2018 06:33:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 130
+[21-Sep-2018 06:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 962
+[21-Sep-2018 06:48:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 308
+[21-Sep-2018 06:54:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 308
+[21-Sep-2018 06:56:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 308
+[21-Sep-2018 07:33:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 841
+[21-Sep-2018 07:34:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 841
+[21-Sep-2018 07:34:42 UTC] PHP Parse error:  syntax error, unexpected 'w', expecting identifier (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1149
+[21-Sep-2018 11:37:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 475
+[21-Sep-2018 11:40:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 380
+[21-Sep-2018 11:44:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 980
+[21-Sep-2018 11:46:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 31
+[22-Sep-2018 16:47:45 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1192
+[22-Sep-2018 16:47:50 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1192
+[22-Sep-2018 16:48:19 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1192
+[22-Sep-2018 16:49:25 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1193
+[22-Sep-2018 16:49:50 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1193
+[22-Sep-2018 16:49:58 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1193
+[22-Sep-2018 16:50:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 529
+[22-Sep-2018 16:54:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 861
+[23-Sep-2018 04:14:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 847
+[23-Sep-2018 04:21:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 301
+[23-Sep-2018 04:21:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1104
+[23-Sep-2018 04:23:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 301
+[23-Sep-2018 04:30:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 729
+[23-Sep-2018 04:40:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 31
+[23-Sep-2018 04:40:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 698
+[23-Sep-2018 05:50:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 820
+[23-Sep-2018 05:50:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 863
+[23-Sep-2018 05:51:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 147
+[23-Sep-2018 05:51:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 258
+[23-Sep-2018 05:56:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 426
+[23-Sep-2018 06:01:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 884
+[23-Sep-2018 06:03:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 105
+[23-Sep-2018 06:03:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 442
+[23-Sep-2018 06:03:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 464
+[23-Sep-2018 06:03:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 670
+[23-Sep-2018 06:03:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 790
+[23-Sep-2018 06:27:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 188
+[23-Sep-2018 06:27:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 502
+[23-Sep-2018 06:27:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 878
+[23-Sep-2018 06:28:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 878
+[23-Sep-2018 06:28:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 968
+[23-Sep-2018 06:31:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 105
+[23-Sep-2018 06:31:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 231
+[24-Sep-2018 06:33:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[24-Sep-2018 06:34:16 UTC] PHP Parse error:  syntax error, unexpected 'if( e' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 351
+[24-Sep-2018 07:02:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[24-Sep-2018 07:03:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[24-Sep-2018 07:09:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 149
+[24-Sep-2018 07:10:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 316
+[24-Sep-2018 07:11:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[24-Sep-2018 07:22:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 147
+[24-Sep-2018 07:22:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '}' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 242
+[24-Sep-2018 09:20:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:20:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:20:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:21:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:21:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:22:01 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:22:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 31
+[24-Sep-2018 09:22:57 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:22:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 571
+[24-Sep-2018 09:23:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[24-Sep-2018 09:26:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 495
+[24-Sep-2018 09:34:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 147
+[24-Sep-2018 09:34:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 187
+[24-Sep-2018 09:45:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 316
+[24-Sep-2018 09:45:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[24-Sep-2018 10:27:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 294
+[24-Sep-2018 10:27:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 350
+[24-Sep-2018 10:27:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 350
+[24-Sep-2018 10:27:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 350
+[25-Sep-2018 04:38:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[25-Sep-2018 04:53:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 478
+[25-Sep-2018 04:53:35 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 478
+[25-Sep-2018 04:53:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 31
+[25-Sep-2018 04:53:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 478
+[25-Sep-2018 04:53:55 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 478
+[25-Sep-2018 04:54:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[25-Sep-2018 04:54:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[25-Sep-2018 05:03:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 31
+[25-Sep-2018 05:04:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[25-Sep-2018 05:06:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 523
+[25-Sep-2018 05:09:45 UTC] PHP Parse error:  syntax error, unexpected 'o', expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 455
+[25-Sep-2018 05:10:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 448
+[25-Sep-2018 05:10:51 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 529
+[25-Sep-2018 05:10:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 529
+[25-Sep-2018 05:11:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 300
+[25-Sep-2018 05:11:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 7
+[25-Sep-2018 07:59:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 108
+[25-Sep-2018 10:00:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 615
+[25-Sep-2018 10:01:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 754
+[25-Sep-2018 10:50:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 320
+[25-Sep-2018 14:51:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 319
+[25-Sep-2018 15:11:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 395
+[25-Sep-2018 16:51:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 285
+[25-Sep-2018 16:56:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 285
+[25-Sep-2018 16:56:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 753
+[26-Sep-2018 04:14:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 397
+[26-Sep-2018 04:16:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 924
+[26-Sep-2018 04:16:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 924
+[26-Sep-2018 04:17:11 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 924
+[26-Sep-2018 04:48:47 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 809
+[26-Sep-2018 05:03:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 55
+[26-Sep-2018 05:03:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 483
+[26-Sep-2018 05:03:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 781
+[26-Sep-2018 05:07:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 847
+[26-Sep-2018 05:08:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 102
+[26-Sep-2018 05:09:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 55
+[26-Sep-2018 05:09:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 403
+[26-Sep-2018 05:11:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 526
+[26-Sep-2018 05:11:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 283
+[26-Sep-2018 05:11:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 869
+[26-Sep-2018 05:13:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 302
+[26-Sep-2018 05:13:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 595
+[26-Sep-2018 05:13:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 793
+[26-Sep-2018 05:13:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 793
+[27-Sep-2018 09:34:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 994
+[29-Sep-2018 05:59:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 213
+[29-Sep-2018 05:59:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 213
+[29-Sep-2018 06:08:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 992
+[29-Sep-2018 07:16:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 395
+[30-Sep-2018 07:34:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 986
+[30-Sep-2018 07:34:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 986
+[30-Sep-2018 16:31:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1172
+[30-Sep-2018 16:31:58 UTC] PHP Parse error:  syntax error, unexpected ''" onclick="clicked(this' (T_ENCAPSED_AND_WHITESPACE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1003
+[30-Sep-2018 17:04:00 UTC] PHP Parse error:  syntax error, unexpected ''" onclick="clicked(this' (T_ENCAPSED_AND_WHITESPACE) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1003
+[30-Sep-2018 17:07:35 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:07:36 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:07:40 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:07:43 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:08:28 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:08:30 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1213
+[30-Sep-2018 17:08:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 322
+[30-Sep-2018 17:09:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 784
+[01-Oct-2018 06:12:52 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1247
+[01-Oct-2018 15:25:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1246
+[01-Oct-2018 15:25:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1246
+[03-Oct-2018 06:48:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 999
+[03-Oct-2018 16:40:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 935
+[03-Oct-2018 16:42:24 UTC] PHP Parse error:  syntax error, unexpected ' fsl_veh', expecting identifier (T_STRING) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1492
+[05-Oct-2018 07:07:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 700
+[05-Oct-2018 07:07:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 700
+[05-Oct-2018 06:47:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 712
+[05-Oct-2018 06:48:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 712
+[05-Oct-2018 06:48:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 712
+[05-Oct-2018 06:49:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 712
+[05-Oct-2018 10:29:41 UTC] PHP Warning:  require(/home/babyshop/public_html/excise/vendor/autoload.php): failed to open stream: No such file or directory in /home/babyshop/public_html/excise/index.php on line 315
+[05-Oct-2018 10:29:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/babyshop/public_html/excise/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/babyshop/public_html/excise/index.php on line 315
+[06-Oct-2018 04:50:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 22
+[06-Oct-2018 04:54:18 UTC] PHP Fatal error:  Can't use method return value in write context in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 17
+[06-Oct-2018 09:36:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 139
+[06-Oct-2018 09:36:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 139
+[06-Oct-2018 09:40:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 124
+[06-Oct-2018 09:41:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/babyshop/public_html/excise/application/modules/Auth/controllers/Auth.php on line 124
+[07-Oct-2018 06:01:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 195
+[07-Oct-2018 06:01:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 319
+[07-Oct-2018 06:02:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 926
+[07-Oct-2018 06:02:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/babyshop/public_html/excise/application/modules/Vehicles/controllers/Vehicles.php on line 1076
